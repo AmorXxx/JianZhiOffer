@@ -1,3 +1,7 @@
+/**
+ *  mark  没太搞懂
+ */
+
 public class Answer_35 {
     public int InversePairs(int[] array) {
         if (array == null || array.length == 0) {
